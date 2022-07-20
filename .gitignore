@@ -1,7 +1,9 @@
 *.log
 *.pyc
 *.tmp
+*.json
 *.o
+htmlcov/
 media/
 logs/
 *venv*
@@ -13,4 +15,6 @@ coverage.xml
 .vscode
 *.jp*g
 *.gif
+*.filepart
+*.jfif
 *.csv
